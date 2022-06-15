@@ -433,8 +433,8 @@ bot.start(async (ctx) => {
         reply_markup:{
             inline_keyboard:[
                 [{text:'✅ Beni Grupa Ekle ✅', url:`https://t.me/${process.env.BOT_ISMI}?startgroup=true`}],
-                [{text:'📝 Resmi Kanal', url:`t.me/StarBotKanal`},{text:'📝 VİP Grub', url:`t.me/SohbetGirdap`}],
-                [{text:'🇹🇷 Kaynak Kodu 🇹🇷', url:`https://github.com/MehmetAtes21/Guess-Game`}]
+                [{text:'📝 Resmi Kanal', url:`t.me/evrendestek`},{text:'📝 VİP Grub', url:`t.me/hababammsinifi`}],
+                [{text:'🇹🇷 Kaynak Kodu 🇹🇷', url:`https://github.com/Efsane2323/yas-tahmin`}]
             ]
         }
     })
@@ -447,8 +447,8 @@ bot.action('dndnd', ctx=>{
         reply_markup:{
             inline_keyboard:[
                 [{text:'✅ Beni Grupa Ekle ✅', url:`https://t.me/${process.env.BOT_ISMI}?startgroup=true`}],
-                [{text:'📝 Resmi Kanal', url:`t.me/StarBotKanal`},{text:'📝 VİP Grub', url:`t.me/SohbetGirdap`}],
-                [{text:'🇹🇷 Kaynak Kodu 🇹🇷', url:`https://github.com/MehmetAtes21/Guess-Game`}]
+                [{text:'📝 Resmi Kanal', url:`t.me/evrendestek`},{text:'📝 VİP Grub', url:`t.me/hababammsinifi`}],
+                [{text:'🇹🇷 Kaynak Kodu 🇹🇷', url:`https://github.com/Efsane2323/yas-tahmin`}]
             ]
         }
     })
